@@ -1,5 +1,3 @@
-# day before day 1
-Tommorow is day 1 of starting extracurricular to get into a good university. I am at that point where i am nervous to start
-it but i have to anyway. I will hopefully keep track of my progress everyday or atleast thrice a week.
-I wanted to collect my thoughts before day 1. I really hope i can do it, and if you are reading this in 2028, that means i made it to MIT or a university i am extremely delighted to be in 
-otherwise i would probably delete this. 
+# Day before day 1
+Tommorow is day 1 of starting extracurricular to get into a good university. I will hopefully keep track of my progress everyday or atleast thrice a week. A vage idea of my extracirricular plan is to learn python properly to ultimately develop a study app, do one good research during summer, and after that start working on robotics to have atleast 3-4 working projects for my portfolio. Alongside that I plan to do volunteer work. Again, this is a vague plan. I do have a very detailed plan for all of this but this is just to manifest!! 
+I really hope i can do it, and if you are reading this in 2028, that means i made it to MIT or a university I am extremely delighted to be in, and if an MIT application reviewer is reading this, I hope you enjoy my journey as much as I hopefully will!! otherwise i would probably delete this. 
